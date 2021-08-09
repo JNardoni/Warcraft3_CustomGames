@@ -1,0 +1,18 @@
+{
+  "Paladin": 
+    {
+      "Main Attr": "Strength",
+      "Strength": "22",
+      "Str/Lvl" : "2.7",
+
+      "Agility" : "13",
+      "Agi/Lvl": "1.5",
+
+      "Intelligence": "17",
+      "Int/Lvl": "1.8",
+
+      "Att Spd" : "1.94",
+      "Dmg High" : "33",
+      "Dmg Low" :  "25"
+    }  
+}
