@@ -1,6 +1,6 @@
 # Warcraft
 
-Contains Warcraft 3 custom games, all open and unlocked. Each game has a stable and test map. Each also includes an about page with design decesions and parts
+Contains Warcraft 3 custom games, all open and unlocked. Each game has a stable and test map. Each also includes an Excel About page with design decesions and parts
 to implement. There are 2 games currently.
 
 1. Phantom Mode 
